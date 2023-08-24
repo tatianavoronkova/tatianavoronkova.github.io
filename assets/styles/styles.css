@@ -163,7 +163,7 @@ a:hover {
     display: flex;
     max-width: 36rem;
     font-size: 16px;
-    padding-top: 5px;
+    padding-top: 4px;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     flex-direction: row;
