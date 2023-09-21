@@ -6,4 +6,4 @@ This repository contains the code for my portfolio website [tatyanavoronkova.git
 
 
 ## RU
-В этом репозитории содержится код и файлы для моего сайта [tatyanavoronkova.github.io](https://tatyanavoronkova.github.io/) 
+В этом репозитории содержатся код и файлы для моего сайта [tatyanavoronkova.github.io](https://tatyanavoronkova.github.io/) 
