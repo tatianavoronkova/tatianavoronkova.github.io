@@ -61,10 +61,22 @@
             <h2 class="content__subheader">FEATURES AND DATA TYPES</h2>
             <div class="content__main-item">
                 <div class="main-item__description">
-                    <h3>Categorical features:</h3>
+                    <b>Categorical features:</b>
                     <p><b>- Region</b> (numerically encoded geographical area, identifies either a large city like Moscow or Saint Petersburg or a federal region / district)</p>
                     <p><b>- Building type</b> (numerically encoded type of building materials: 0 - Other, 1 - Panel, 2 - Monolithic, 3 - Brick, 4 - Blocky, 5 - Wooden)</p>
                     <p><b>- Object type</b> (apartment type: 1 - secondary real estate market, 11 - new building)</p>
+                    <b>Numerical features:</b>
+                    <p><b>- Area</b> (total floor area of the apartment in sq. meters)</p>
+                    <p><b>- Kitchen area</b> (kitchen area in sq. meters)</p>
+                    <p><b>- Rooms</b> (number of rooms in the apartment, -1 stands for studios with open-space layout)</p>
+                    <p><b>- Level</b> (floor the apartment is located on, could be treated as a categorical feature as well)</p>
+                    <p><b>- Levels</b> (total number of storeys in the building)</p>
+                    <b>Geospatial features:</b>
+                    <p><b>- Latitude</b> (geographical coordinate of the property)</p>
+                    <p><b>- Longitude</b> (geographical coordinate of the property)</p>
+                    <b>Temporal features:</b>
+                    <p><b>- Date</b> (date the listing was published)</p>
+                    <p><b>- Time</b> (exact time the listing was published)</p>
                 </div>
             </div>
             <h2 class="content__subheader">USED LIBRARIES</h2>
