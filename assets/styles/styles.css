@@ -226,6 +226,7 @@ a:hover {
 
 .main-item__description u {
     text-decoration: underline;
+    color: blue;
 }
 
 .main-item__description col {
