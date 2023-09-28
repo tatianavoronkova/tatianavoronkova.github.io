@@ -229,8 +229,9 @@ a:hover {
     color: blue;
 }
 
-.main-item__description col {
+.main-item__description a {
     color: blue;
+    font-weight: 600;
 }
 
 .project .main-item__title {
