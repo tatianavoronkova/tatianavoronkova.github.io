@@ -224,6 +224,9 @@ a:hover {
     font-weight: bolder;
 }
 
+.main-item__description u {
+    border-bottom: 2px;
+}
 .project .main-item__title {
     font-weight: 500;
     font-size: 28px;
