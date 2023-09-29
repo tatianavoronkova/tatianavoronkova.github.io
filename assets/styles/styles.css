@@ -226,7 +226,7 @@ a:hover {
 
 .main-item__description u {
     text-decoration: none;
-    border-bottom: 2px dashed red;
+    border-bottom: 2px dashed blue;
 }
 
 .project .main-item__title {
