@@ -225,7 +225,8 @@ a:hover {
 }
 
 .main-item__description u {
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom: 2px dashed red;
 }
 
 .project .main-item__title {
