@@ -92,6 +92,10 @@ a {
     color: black;
     font-weight: 600;
 }
+a.dot {
+    text-decoration: none; /* Убираем подчеркивание */
+    border-bottom: 1px dashed blue; /* Добавляем свою линию */ 
+   }
 
 a:hover {
     text-decoration: underline;
