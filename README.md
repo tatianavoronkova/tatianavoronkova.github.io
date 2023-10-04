@@ -12,7 +12,7 @@
           
 ## CONTACTS
 
-<a href="https://tatyanavoronkova.github.io/" target="_blank">
+<a href="https://www.linkedin.com/in/tatyanavoronkova" target="_blank">
   <img src="assets/img/icons/linkedin.png" width="40" height="40">
 </a>
 <a href="https://t.me/t_n_ya" target="_blank">
