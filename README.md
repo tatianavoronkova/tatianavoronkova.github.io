@@ -1,3 +1,3 @@
-# Portfolio website - Tatyana Voronkova
+# Portfolio website - Tatiana Voronkova
 
-This repository contains the assets for my personal website [tatyanavoronkova.github.io](tatyanavoronkova.github.io/)
+This repository contains the assets for my personal website [tatianavoronkova.github.io](tatianavoronkova.github.io/)
